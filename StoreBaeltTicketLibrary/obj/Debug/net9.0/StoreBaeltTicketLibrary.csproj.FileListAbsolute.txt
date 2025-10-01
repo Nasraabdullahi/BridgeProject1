@@ -1,0 +1,16 @@
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.AssemblyInfoInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.AssemblyInfo.cs
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.csproj.CoreCompileInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/bin/Debug/net9.0/StoreBaeltTicketLibrary.deps.json
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/bin/Debug/net9.0/StoreBaeltTicketLibrary.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/bin/Debug/net9.0/StoreBaeltTicketLibrary.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/bin/Debug/net9.0/BridgeProject.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/bin/Debug/net9.0/BridgeProject.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/bin/Debug/net9.0/BridgeProject.xml
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.csproj.AssemblyReference.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBae.A627461F.Up2Date
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/refint/StoreBaeltTicketLibrary.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/StoreBaeltTicketLibrary.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/StoreBaeltTicketLibrary/obj/Debug/net9.0/ref/StoreBaeltTicketLibrary.dll

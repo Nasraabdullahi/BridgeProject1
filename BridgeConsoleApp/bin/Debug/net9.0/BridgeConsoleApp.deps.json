@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BridgeConsoleApp/1.0.0": {
+        "dependencies": {
+          "OresundTicketLibrary": "1.0.0",
+          "StoreBaeltTicketLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BridgeConsoleApp.dll": {}
+        }
+      },
+      "BridgeProject/1.0.0": {
+        "runtime": {
+          "BridgeProject.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OresundTicketLibrary/1.0.0": {
+        "dependencies": {
+          "BridgeProject": "1.0.0"
+        },
+        "runtime": {
+          "OresundTicketLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StoreBaeltTicketLibrary/1.0.0": {
+        "dependencies": {
+          "BridgeProject": "1.0.0"
+        },
+        "runtime": {
+          "StoreBaeltTicketLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BridgeProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OresundTicketLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreBaeltTicketLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

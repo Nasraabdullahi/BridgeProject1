@@ -1,0 +1,13 @@
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/bin/Debug/net9.0/BridgeProject.deps.json
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/bin/Debug/net9.0/BridgeProject.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/bin/Debug/net9.0/BridgeProject.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/bin/Debug/net9.0/BridgeProject.xml
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.AssemblyInfoInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.AssemblyInfo.cs
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.csproj.CoreCompileInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/refint/BridgeProject.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.xml
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/BridgeProject.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/obj/Debug/net9.0/ref/BridgeProject.dll

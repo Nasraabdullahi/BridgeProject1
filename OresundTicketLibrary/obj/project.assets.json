@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "BridgeProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BridgeProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BridgeProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeProject/1.0.0": {
+      "type": "project",
+      "path": "../BridgeProject/BridgeProject.csproj",
+      "msbuildProject": "../BridgeProject/BridgeProject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "BridgeProject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nasraabdullahi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/OresundTicketLibrary.csproj",
+      "projectName": "OresundTicketLibrary",
+      "projectPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/OresundTicketLibrary.csproj",
+      "packagesPath": "/Users/nasraabdullahi/.nuget/packages/",
+      "outputPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nasraabdullahi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/BridgeProject.csproj": {
+              "projectPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/BridgeProject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

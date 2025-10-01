@@ -1,0 +1,16 @@
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.AssemblyInfoInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.AssemblyInfo.cs
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.csproj.CoreCompileInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/bin/Debug/net9.0/OresundTicketLibrary.deps.json
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/bin/Debug/net9.0/OresundTicketLibrary.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/bin/Debug/net9.0/OresundTicketLibrary.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/bin/Debug/net9.0/BridgeProject.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/bin/Debug/net9.0/BridgeProject.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/bin/Debug/net9.0/BridgeProject.xml
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.csproj.AssemblyReference.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundT.592754BA.Up2Date
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/refint/OresundTicketLibrary.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/OresundTicketLibrary.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/obj/Debug/net9.0/ref/OresundTicketLibrary.dll
