@@ -1,0 +1,15 @@
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/bin/Debug/net9.0/BridgeportTestClient
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/bin/Debug/net9.0/BridgeportTestClient.deps.json
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/bin/Debug/net9.0/BridgeportTestClient.runtimeconfig.json
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/bin/Debug/net9.0/BridgeportTestClient.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/bin/Debug/net9.0/BridgeportTestClient.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.AssemblyInfoInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.AssemblyInfo.cs
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.csproj.CoreCompileInputs.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.sourcelink.json
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/refint/BridgeportTestClient.dll
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.pdb
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/BridgeportTestClient.genruntimeconfig.cache
+/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeportTestClient/obj/Debug/net9.0/ref/BridgeportTestClient.dll

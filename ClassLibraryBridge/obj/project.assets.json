@@ -59,6 +59,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "BridgeProject >= 1.0.0",
       "OresundTicketLibrary >= 1.0.0",
       "StoreBaeltTicketLibrary >= 1.0.0"
     ]
@@ -69,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeConsoleApp/BridgeConsoleApp.csproj",
-      "projectName": "BridgeConsoleApp",
-      "projectPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeConsoleApp/BridgeConsoleApp.csproj",
+      "projectUniqueName": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/ClassLibraryBridge/ClassLibraryBridge.csproj",
+      "projectName": "ClassLibraryBridge",
+      "projectPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/ClassLibraryBridge/ClassLibraryBridge.csproj",
       "packagesPath": "/Users/nasraabdullahi/.nuget/packages/",
-      "outputPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeConsoleApp/obj/",
+      "outputPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/ClassLibraryBridge/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nasraabdullahi/.nuget/NuGet/NuGet.Config"
@@ -88,6 +89,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/BridgeProject.csproj": {
+              "projectPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/BridgeProject/BridgeProject.csproj"
+            },
             "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/OresundTicketLibrary.csproj": {
               "projectPath": "/Users/nasraabdullahi/Downloads/BridgeProject-main-4/OresundTicketLibrary/OresundTicketLibrary.csproj"
             },
